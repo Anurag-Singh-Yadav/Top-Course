@@ -1,0 +1,15 @@
+.filterbtn{
+    cursor: pointer;
+    background-color: #22223b;
+    opacity: 80%;
+    color:#FFFFFF;
+    padding: 4px;
+    border-radius: 4px;
+    font-weight: 600;
+    padding-left: 8px;
+    padding-right: 8px;
+    /* font-size: larger; */
+}
+#active{
+    border: 2px solid white;
+}

@@ -1,0 +1,7 @@
+.NavBar{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    align-items: center;
+    --tw-bg-opacity: 1;
+    background-color: rgb(34 34 59/var(--tw-bg-opacity));
+}
